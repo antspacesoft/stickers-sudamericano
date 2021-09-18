@@ -1,0 +1,30 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.christmas",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"alianza2020",
+         "name":"Alianza",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"america2020",
+         "name":"America",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"barcelona2020",
+         "name":"Barcelona",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"binacional",
+         "name":"Binacional",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}
