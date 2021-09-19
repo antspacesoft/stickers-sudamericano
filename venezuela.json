@@ -1,0 +1,24 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.sudamericano",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"caracas2020",
+         "name":"Caracas",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"delfin2020",
+         "name":"Delfin",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"estudiantesmer2020",
+         "name":"Estudiantes Merida",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}

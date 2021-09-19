@@ -1,0 +1,36 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.sudamericano",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"bocajrs2020",
+         "name":"Boca Juniors",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"defensa2020",
+         "name":"Defensa y Justicia",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"racing2020",
+         "name":"Racing Club",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"riverplate2020",
+         "name":"River Plate",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"tigre2020",
+         "name":"Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}
