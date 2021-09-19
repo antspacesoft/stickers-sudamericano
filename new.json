@@ -21,8 +21,176 @@
          "stickers":"13"
       },
       {
-         "identifier":"binacional",
+         "identifier":"binacional2020",
          "name":"Binacional",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"bocajrs2020",
+         "name":"Boca Juniors",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"bolivar2020",
+         "name":"Bolivar",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"caracas2020",
+         "name":"Caracas",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"catolica2020",
+         "name":"Universidad Catolica",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"colocolo2020",
+         "name":"Colo Colo",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"defensa2020",
+         "name":"Defensa y Justicia",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"delfin2020",
+         "name":"Delfin",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"delvalle2020",
+         "name":"Indep. del Valle",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"estudiantesmer2020",
+         "name":"Estudiantes Merida",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"flamengo2020",
+         "name":"Flamengo",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"gremio2020",
+         "name":"Gremio",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"guarani2020",
+         "name":"Guarani",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"inter2020",
+         "name":"Inter Porto Alegre",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"junior2020",
+         "name":"Junior Barranquilla",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"libertad2020",
+         "name":"Libertad",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"ligadequito2020",
+         "name":"Liga de Quito",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"medellin2020",
+         "name":"Indep. Medellin",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nacional2020",
+         "name":"Nacional",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"olimpia2020",
+         "name":"Olimpia",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"palmeiras2020",
+         "name":"Palmeiras",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"paranaense2020",
+         "name":"Atl. Paranaense",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"penarol2020",
+         "name":"Penarol",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"racing2020",
+         "name":"Racing Club",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"riverplate2020",
+         "name":"River Plate",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"sanpablo2020",
+         "name":"Sao Paulo",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"santos2020",
+         "name":"Santos",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"tigre2020",
+         "name":"Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"wilstermann2020",
+         "name":"Wilstermann",
          "animated_sticker_pack":false,
          "stickers":"15"
       }
