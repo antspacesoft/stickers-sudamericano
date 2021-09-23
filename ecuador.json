@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"barcelona2021",
+         "name":"Barcelona 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"barcelona2020",
-         "name":"Barcelona",
+         "name":"Barcelona 2020",
          "animated_sticker_pack":false,
          "stickers":"13"
       },

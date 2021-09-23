@@ -3,8 +3,20 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bolivar2021",
+         "name":"Bolivar 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"thestrongest2021",
+         "name":"The Strongest",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"bolivar2020",
-         "name":"Bolivar",
+         "name":"Bolivar 2020",
          "animated_sticker_pack":false,
          "stickers":"15"
       },

@@ -3,6 +3,36 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"rosariocentral2021",
+         "name":"Rosario Central",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"newells2021",
+         "name":"Newells Old Boys Club",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sanlorenzo2021",
+         "name":"San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"independiente2021",
+         "name":"Independiente",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"racingclub2021",
+         "name":"Racing Club",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"bocajrs2020",
          "name":"Boca Juniors",
          "animated_sticker_pack":false,
