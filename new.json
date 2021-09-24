@@ -3,32 +3,74 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sudamericana2021s2",
+         "name":"Penarol vs Paranaense (s1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"universidadchile2021",
+         "name":"Universidad de Chile 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"colocolo2021",
+         "name":"Colo Colo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"universidadcatolica2021",
+         "name":"Universidad Catolica 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"independientedelvalle2021",
+         "name":"Indep. del Valle 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lduquito2021",
+         "name":"LDU Quito 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"emelec2021",
+         "name":"Emelec 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"rosariocentral2021",
-         "name":"Rosario Central",
+         "name":"Rosario Central 2021",
          "animated_sticker_pack":false,
          "stickers":"27"
       },
       {
          "identifier":"newells2021",
-         "name":"Newells Old Boys Club",
+         "name":"Newells Old Boys 2021",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"sanlorenzo2021",
-         "name":"San Lorenzo",
+         "name":"San Lorenzo 2021",
          "animated_sticker_pack":false,
          "stickers":"29"
       },
       {
          "identifier":"independiente2021",
-         "name":"Independiente",
+         "name":"Independiente 2021",
          "animated_sticker_pack":false,
          "stickers":"27"
       },
       {
          "identifier":"racingclub2021",
-         "name":"Racing Club",
+         "name":"Racing Club 2021",
          "animated_sticker_pack":false,
          "stickers":"29"
       },
@@ -40,25 +82,25 @@
       },
       {
          "identifier":"thestrongest2021",
-         "name":"The Strongest",
+         "name":"The Strongest 2021",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"atleticomineiro20211",
-         "name":"Atl. Mineiro (1)",
+         "name":"Atl. Mineiro (1) 2021",
          "animated_sticker_pack":false,
          "stickers":"19"
       },
       {
          "identifier":"atleticomineiro20212",
-         "name":"Atl. Mineiro (2)",
+         "name":"Atl. Mineiro (2) 2021",
          "animated_sticker_pack":false,
          "stickers":"28"
       },
       {
          "identifier":"corinthians2021",
-         "name":"Corinthians",
+         "name":"Corinthians 2021",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
@@ -70,13 +112,13 @@
       },
       {
          "identifier":"fluminense2021",
-         "name":"Fluminense",
+         "name":"Fluminense 2021",
          "animated_sticker_pack":false,
          "stickers":"27"
       },
       {
          "identifier":"gremio2021",
-         "name":"Gremio",
+         "name":"Gremio 2021",
          "animated_sticker_pack":false,
          "stickers":"30"
       },

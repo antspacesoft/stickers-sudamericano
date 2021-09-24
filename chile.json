@@ -3,14 +3,32 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"universidadchile2021",
+         "name":"Universidad de Chile 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"colocolo2021",
+         "name":"Colo Colo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"universidadcatolica2021",
+         "name":"Universidad Catolica 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"catolica2020",
-         "name":"Universidad Catolica",
+         "name":"Universidad Catolica 2020",
          "animated_sticker_pack":false,
          "stickers":"15"
       },
       {
          "identifier":"colocolo2020",
-         "name":"Colo Colo",
+         "name":"Colo Colo 2020",
          "animated_sticker_pack":false,
          "stickers":"15"
       }
