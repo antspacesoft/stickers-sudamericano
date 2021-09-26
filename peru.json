@@ -3,8 +3,26 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"alianzalima2021",
+         "name":"Alianza 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"cienciano2021",
+         "name":"Cienciano 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sportingcristal2021",
+         "name":"Sporting Cristal 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"alianza2020",
-         "name":"Alianza",
+         "name":"Alianza 2020",
          "animated_sticker_pack":false,
          "stickers":"15"
       },

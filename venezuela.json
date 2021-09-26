@@ -3,8 +3,32 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"caracas2021",
+         "name":"Caracas 2021",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"deportivolaguaira2021",
+         "name":"Dep. La Guaira 2021",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"deportivolara2021",
+         "name":"Deportivo Lara 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"deportivotachira2021",
+         "name":"Deportivo Tachira 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"caracas2020",
-         "name":"Caracas",
+         "name":"Caracas 2020",
          "animated_sticker_pack":false,
          "stickers":"13"
       },

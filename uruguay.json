@@ -3,8 +3,32 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"nacional2021",
+         "name":"Nacional 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"penarol2021",
+         "name":"Penarol 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"fenix2021",
+         "name":"Fenix 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"montevideocitytorque2021",
+         "name":"City Torque 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
          "identifier":"nacional2020",
-         "name":"Nacional",
+         "name":"Nacional 2020",
          "animated_sticker_pack":false,
          "stickers":"15"
       },
