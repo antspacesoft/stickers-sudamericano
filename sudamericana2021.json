@@ -3,14 +3,20 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sudamericana2021s4",
+         "name":"Penarol vs Paranaense (s4)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"sudamericana2021s3",
-         "name":"Libertad vs Bragantino (s2)",
+         "name":"Libertad vs Bragantino (s3)",
          "animated_sticker_pack":false,
          "stickers":"16"
       },
       {
          "identifier":"sudamericana2021s2",
-         "name":"Penarol vs Paranaense (s1)",
+         "name":"Penarol vs Paranaense (s2)",
          "animated_sticker_pack":false,
          "stickers":"18"
       },
