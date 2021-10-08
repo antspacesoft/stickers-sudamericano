@@ -3,10 +3,10 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"gol1",
-         "name":"Pack Gol",
-         "animated_sticker_pack":true,
-         "stickers":"12"
+         "identifier":"eliminatoriasqatarf11",
+         "name":"Eliminatorias F11",
+         "animated_sticker_pack":false,
+         "stickers":"30"
       }
    ]
 }
