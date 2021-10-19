@@ -3,6 +3,72 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"aldosivi2021",
+         "name":"Aldosivi 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"atleticotucuman2021",
+         "name":"Atletico Tucuman 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"banfield2021",
+         "name":"Banfield 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"defensayjusticia2021",
+         "name":"Defensa y Justicia 2021",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"estudianteslp2021",
+         "name":"Estudiantes LP 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"gimnasialp2021",
+         "name":"Gimnasia LP 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"godoycruz2021",
+         "name":"Godoy Cruz 2021",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"platense2021",
+         "name":"Platense 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"riverplate2021",
+         "name":"River Plate 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"talleres2021",
+         "name":"Talleres 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"velez2021",
+         "name":"Velez Sarsfield 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"eliminatoriasqatarf13",
          "name":"Eliminatorias F13",
          "animated_sticker_pack":false,
