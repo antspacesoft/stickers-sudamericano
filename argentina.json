@@ -21,6 +21,12 @@
          "stickers":"30"
       },
       {
+         "identifier":"bocajuniors2021",
+         "name":"Boca Juniors 2021",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"defensayjusticia2021",
          "name":"Defensa y Justicia 2021",
          "animated_sticker_pack":false,
