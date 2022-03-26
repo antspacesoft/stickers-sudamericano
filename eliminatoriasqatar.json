@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"eliminatoriasqatarf17b",
+         "name":"Eliminatorias F17 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"eliminatoriasqatarf17a",
          "name":"Eliminatorias F17 (1)",
          "animated_sticker_pack":false,
