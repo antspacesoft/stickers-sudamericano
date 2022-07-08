@@ -1,0 +1,14 @@
+{
+   "meme_packs":[
+      {
+         "identifier":"memes1",
+         "name":"Memes 1",
+         "memes":"13"
+      },
+      {
+         "identifier":"memes2",
+         "name":"Memes 2",
+         "memes":"5"
+      }
+   ]
+}
