@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022GCargentinavsmexico1",
+         "name":"Argentina vs Mexico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico2",
+         "name":"Argentina vs Mexico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2022GAnetherlandsvsecuador",
          "name":"Paises Bajos vs Ecuador",
          "animated_sticker_pack":false,
