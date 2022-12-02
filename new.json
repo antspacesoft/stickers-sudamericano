@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022GHghanavsuruguay",
+         "name":"Uruguay vs Ghana",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }, 
+      {
          "identifier":"worldcup2022GCpolandvsargentina1",
          "name":"Argentina vs Polonia (1)",
          "animated_sticker_pack":false,
