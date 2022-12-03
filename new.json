@@ -13,7 +13,13 @@
          "name":"Argentina vs Australia (2)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },  
+      },
+      {
+         "identifier":"worldcup2022o2c",
+         "name":"Argentina vs Australia (3)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },   
       {
          "identifier":"worldcup2022GHghanavsuruguay",
          "name":"Uruguay vs Ghana",
