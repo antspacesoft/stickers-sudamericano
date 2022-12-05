@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022o6a",
+         "name":"Brasil vs Corea del Sur (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022o6b",
+         "name":"Brasil vs Corea del Sur (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2022o2a",
          "name":"Argentina vs Australia (1)",
          "animated_sticker_pack":false,
