@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022q2a",
+         "name":"Argentina vs Holanda (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022q2b",
+         "name":"Argentina vs Holanda (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2022q1a",
          "name":"Brasil vs Croacia (1)",
          "animated_sticker_pack":false,
