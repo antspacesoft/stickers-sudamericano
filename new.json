@@ -3,6 +3,36 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022w9",
+         "name":"Argentina Campeón (9)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w8",
+         "name":"Argentina Campeón (8)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w7",
+         "name":"Argentina Campeón (7)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w6",
+         "name":"Argentina Campeón (6)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w5",
+         "name":"Argentina Campeón (5)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"worldcup2022w4",
          "name":"Argentina Campeón (4)",
          "animated_sticker_pack":false,
