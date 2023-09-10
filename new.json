@@ -3,17 +3,47 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier": "eliminatorias2026f1a",
-         "name": "Argentina vs Ecuador",
-         "animated_sticker_pack": false,
-         "stickers": "24"
+         "identifier":"riverplate2023",
+         "name":"River Plate",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bocajuniors2023",
+         "name":"Boca Juniors",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"racingclub2023",
+         "name":"Racing Club",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"independiente2023",
+         "name":"Independiente",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sanlorenzo2023",
+         "name":"San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"eliminatorias2026f1a",
+         "name":"Argentina vs Ecuador",
+         "animated_sticker_pack":false,
+         "stickers":"24"
       },
       {
          "identifier":"2023rivercampeon1",
          "name":"River Campeón LPF 23",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },  
+      },
       {
          "identifier":"worldcup2022w10",
          "name":"Argentina Campeón (10)",
@@ -169,19 +199,19 @@
          "name":"Argentina vs Australia (3)",
          "animated_sticker_pack":true,
          "stickers":"9"
-      },   
+      },
       {
          "identifier":"worldcup2022GHghanavsuruguay",
          "name":"Uruguay vs Ghana",
          "animated_sticker_pack":false,
          "stickers":"30"
-      }, 
+      },
       {
          "identifier":"worldcup2022GCpolandvsargentina1",
          "name":"Argentina vs Polonia (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"worldcup2022GCpolandvsargentina2",
          "name":"Argentina vs Polonia (2)",
