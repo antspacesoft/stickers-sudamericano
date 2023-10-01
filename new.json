@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2023bocajrsvsriverplate1",
+         "name":"River Plate vs Boca Jrs (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"2023bocajrsvsriverplate2",
+         "name":"River Plate vs Boca Jrs (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"riverplate2023",
          "name":"River Plate 2023",
          "animated_sticker_pack":false,
