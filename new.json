@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"messiballondor2023",
+         "name":"Messi Ballon Oro 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"emilianomartinez1",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
          "identifier":"sudamericana2023w1",
          "name":"LDU Campeón Sudamericana",
          "animated_sticker_pack":false,
