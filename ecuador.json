@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"barcelonaecu2023",
+         "name":"Barcelona Ecuador 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ligaquito2023",
+         "name":"Liga de Quito 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"sudamericana2023w1",
          "name":"LDU Campeón Sudamericana",
          "animated_sticker_pack":false,

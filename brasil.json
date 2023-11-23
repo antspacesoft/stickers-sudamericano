@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"corinthians2023",
+         "name":"Corinthians 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"flamengo2023",
+         "name":"Flamengo 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"fluminense2023",
+         "name":"Fluminense 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"gremio2023",
+         "name":"Gremio 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"interpa2023",
+         "name":"Inter Porto Alegre 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"palmeiras2023",
+         "name":"Palmeiras 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"libertadores2023w1",
          "name":"Fluminense Campeón Libertadores",
          "animated_sticker_pack":false,

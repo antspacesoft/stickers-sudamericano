@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"nacional2023",
+         "name":"Nacional 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"penarol2023",
+         "name":"Penarol 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"suareznacional",
          "name":"Luis Suarez",
          "animated_sticker_pack":false,

@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"atleticonacional2023",
+         "name":"Atl Nacional 2023",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"independientemedellin2023",
+         "name":"Independiente Medellin 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"millonarios2023",
+         "name":"Millonarios 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"independientesantafe2021",
          "name":"Independiente Sta Fe",
          "animated_sticker_pack":false,

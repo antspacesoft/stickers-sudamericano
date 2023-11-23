@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"caracas2023",
+         "name":"Caracas 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"caracas2021",
          "name":"Caracas 2021",
          "animated_sticker_pack":false,

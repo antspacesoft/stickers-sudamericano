@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"colocolo2023",
+         "name":"Colo Colo 2023",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"universidadcatolica2023",
+         "name":"Universidad Catolica 2023",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"universidadchile2023",
+         "name":"Universidad de Chile 2023",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"universidadchile2021",
          "name":"Universidad de Chile 2021",
          "animated_sticker_pack":false,
