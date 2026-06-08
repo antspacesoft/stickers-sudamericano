@@ -3,6 +3,78 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026paniniargentina1",
+         "name":"Argentina Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninibrazil1",
+         "name":"Brazil Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninicanada1",
+         "name":"Canada Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninicolombia1",
+         "name":"Colombia Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2026paninicuracao1",
+         "name":"Curacao Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniecuador1",
+         "name":"Ecuador Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninihaiti1",
+         "name":"Haiti Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }, 
+      {
+         "identifier":"worldcup2026paninimexico1",
+         "name":"Mexico Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninipanama1",
+         "name":"Panama Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniparaguay1",
+         "name":"Paraguay Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }, 
+      {
+         "identifier":"worldcup2026paniniuruguay1",
+         "name":"Uruguay Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniusa1",
+         "name":"USA Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }, 
+      {
          "identifier":"libertadores2025w1",
          "name":"Flamengo Campeão 2025 (1)",
          "animated_sticker_pack":false,
