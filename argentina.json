@@ -3,14 +3,32 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026argentinas3",
+         "name":"Argentina vs Inglaterra (3)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      }, 
+      {
+         "identifier":"worldcup2026argentinas2",
+         "name":"Argentina vs Inglaterra (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },       
+      {
+         "identifier":"worldcup2026argentinas1",
+         "name":"Argentina vs Inglaterra (1)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },           
+      {
          "identifier":"worldcup2026argentinao1b",
-         "name":"vs Egipto (2)",
+         "name":"Argentina vs Egipto (2)",
          "animated_sticker_pack":false,
          "stickers":"27"
       },           
       {
          "identifier":"worldcup2026argentinao1a",
-         "name":"vs Egipto (1)",
+         "name":"Argentina vs Egipto (1)",
          "animated_sticker_pack":false,
          "stickers":"27"
       },           
